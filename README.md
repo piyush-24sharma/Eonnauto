@@ -1,2 +1,2 @@
 # Eonnauto
-this is testing repository
+Its an app for Blackberry phones
